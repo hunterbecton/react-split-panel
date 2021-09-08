@@ -1,11 +1,7 @@
-import { Layout, Editor1 } from '../components';
+import { Layout } from '../components';
 
 const Example1 = () => {
-  return (
-    <Layout>
-      <Editor1 />
-    </Layout>
-  );
+  return <Layout></Layout>;
 };
 
 export default Example1;
